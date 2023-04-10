@@ -19,4 +19,4 @@ E﻿specialistas en el verdadero arte de embellecer tu sonrisa.
 * C﻿ontamos con el mejor equipo y atencion.
 * E﻿l trabajo en equipo es trabajo bien hecho.
 
-## pPorque se combina ciencia, tecnica y arte para transformar molestias y dolores en sonrisas y salud.
+## Porque se combina ciencia, tecnica y arte para transformar molestias y dolores en sonrisas y salud.

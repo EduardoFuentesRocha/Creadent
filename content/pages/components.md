@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Laboratorio Protésico Dental
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/3bce0a8b-7c06-46a6-992c-881a224d49e1/
 subtitle: This is the components page subtitle.
 section1: >-
   ## This is a container component

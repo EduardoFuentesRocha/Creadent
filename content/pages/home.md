@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Creadent
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/1e320b06-b3aa-4a5b-adf2-ace1a63caca2/
 subtitle: Clínica Dental.
 meta:
   description: Clínica Dental.
@@ -14,15 +14,11 @@ E﻿specialista en el verdadero arte de embellecer tu sonrisa.
 
 # S﻿acando tu mejor sonrisa
 
-* ﻿En﻿
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
+* ﻿En﻿ Creadent estamos comprometidos en brindarte la mejor experiencia 
+* T﻿odos los dias llegamos comprometidos a dar lo mejor de nosotros y a disfrutar haciendolo.
+* ﻿﻿T﻿
+* Tu salud bucal es nuestra prioridad.
+* C﻿ontamos con el mejor equipo y atencion.
+* E﻿l trabajo en equipo es trabajo bien hecho.
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+## pPorque se combina ciencia, tecnica y arte para transformar molestias y dolores en sonrisas y salud.

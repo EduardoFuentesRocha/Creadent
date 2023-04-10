@@ -1,16 +1,16 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Contacto
+featuredImage: https://ucarecdn.com/a6fa6f17-bbce-4a77-9bcd-ab8d32c2bb9c/
+subtitle: N﻿os encantara saber de ti.
+address: "Juarez #607 Zona Central, Salvatierra Guanajuato."
+phone: 4661250138 - 4666633372
+email: creadentclinicadental@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: "-27.9654732"
+    lng: "153.2432449"
+    mapLink: ""
 meta:
   description: This is a meta description.
   title: Contact Page

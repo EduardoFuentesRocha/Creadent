@@ -8,15 +8,13 @@ meta:
   description: Clínica Dental.
   title: Creadent
 ---
-D﻿entista
-
-E﻿specialista en el verdadero arte de embellecer tu sonrisa.
+E﻿specialistas en el verdadero arte de embellecer tu sonrisa.
 
 # S﻿acando tu mejor sonrisa
 
 * ﻿En﻿ Creadent estamos comprometidos en brindarte la mejor experiencia 
 * T﻿odos los dias llegamos comprometidos a dar lo mejor de nosotros y a disfrutar haciendolo.
-* ﻿﻿T﻿
+* ﻿﻿La sonrisa es lo mas bonito que puedes usar.
 * Tu salud bucal es nuestra prioridad.
 * C﻿ontamos con el mejor equipo y atencion.
 * E﻿l trabajo en equipo es trabajo bien hecho.
